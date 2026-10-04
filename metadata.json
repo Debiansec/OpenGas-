@@ -1,0 +1,8 @@
+{
+  "name": "GasOn",
+  "description": "Fast, reliable LP Gas delivery and complete online gas appliance store for Henley on Klip, Meyerton, Midvaal and surrounding areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
